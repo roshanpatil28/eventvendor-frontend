@@ -1,0 +1,28 @@
+.notification-page {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .notification-list {
+    margin-top: 20px;
+  }
+  
+  .notification-item {
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+    transition: background-color 0.2s;
+  }
+  
+  .notification-item:hover {
+    background-color: #f9f9f9;
+  }
+  
+  .notification-item p {
+    margin: 0 0 5px 0;
+  }
+  
+  .notification-item small {
+    color: #666;
+    font-size: 0.8rem;
+  }
